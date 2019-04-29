@@ -1,0 +1,1650 @@
+dealer:  [1] 	hands:  [1, 1] 	ratio:  0.00010942116205274101
+opt strategy:  Buy_Insurance 	profit:  0.14411834569516146
+total_profit:  1.5769596859083212e-05
+dealer:  [1] 	hands:  [1, 2] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  -0.07343143639968555
+total_profit:  -3.2440121753250014e-05
+dealer:  [1] 	hands:  [1, 3] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  -0.12511164703231167
+total_profit:  -0.00011457929258089747
+dealer:  [1] 	hands:  [1, 4] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  -0.17781996249739218
+total_profit:  -0.00023132289417673434
+dealer:  [1] 	hands:  [1, 5] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  -0.22875810797972584
+total_profit:  -0.0003815087622015024
+dealer:  [1] 	hands:  [1, 6] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  -0.22015841236594091
+total_profit:  -0.0005260486981021092
+dealer:  [1] 	hands:  [1, 7] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  -0.11877185095282816
+total_profit:  -0.0006040256218045897
+dealer:  [1] 	hands:  [1, 8] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  0.06895385047958587
+total_profit:  -0.0005587555591196662
+dealer:  [1] 	hands:  [1, 9] 	ratio:  0.000656526972316446
+opt strategy:  Buy_Insurance 	profit:  0.2935529799040829
+total_profit:  -0.00036603011000876814
+dealer:  [1] 	hands:  [1, 10] 	ratio:  0.002626107889265784
+opt strategy:  No_Insurance 	profit:  1.0341036414565794
+total_profit:  0.0023496376211388312
+dealer:  [1] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.19091387676734123
+total_profit:  0.0022869675663952024
+dealer:  [1] 	hands:  [2, 3] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.240463269464846
+total_profit:  0.002050161633012599
+dealer:  [1] 	hands:  [2, 4] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.28574332219306414
+total_profit:  0.0017687643357440163
+dealer:  [1] 	hands:  [2, 5] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.28410385678865846
+total_profit:  0.0014889815683626917
+dealer:  [1] 	hands:  [2, 6] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.247270608813135
+total_profit:  0.001245471832142294
+dealer:  [1] 	hands:  [2, 7] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.17216577925977955
+total_profit:  0.001075924615451407
+dealer:  [1] 	hands:  [2, 8] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.02774733875303178
+total_profit:  0.001048599300999357
+dealer:  [1] 	hands:  [2, 9] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  0.062945552936065
+total_profit:  0.001110587480934206
+dealer:  [1] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  -0.3975138068409801
+total_profit:  -0.0004552837354215532
+dealer:  [1] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.2418733348390708
+total_profit:  -0.0005346819195245418
+dealer:  [1] 	hands:  [3, 4] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.30298190411413983
+total_profit:  -0.0008330556077866337
+dealer:  [1] 	hands:  [3, 5] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.2390008617158133
+total_profit:  -0.0010684213759715904
+dealer:  [1] 	hands:  [3, 6] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.15706623479152954
+total_profit:  -0.0012230987053428307
+dealer:  [1] 	hands:  [3, 7] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.01759359087395171
+total_profit:  -0.0012404247057658053
+dealer:  [1] 	hands:  [3, 8] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  0.07394432887198502
+total_profit:  -0.0011676050362343616
+dealer:  [1] 	hands:  [3, 9] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.38188730677816807
+total_profit:  -0.0015436840121620904
+dealer:  [1] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  -0.43488644165311735
+total_profit:  -0.0032567720852020535
+dealer:  [1] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.22279915884989743
+total_profit:  -0.0033299089137992406
+dealer:  [1] 	hands:  [4, 5] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.14353441457059457
+total_profit:  -0.0034712602357311094
+dealer:  [1] 	hands:  [4, 6] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.010156146606573688
+total_profit:  -0.003481261912004133
+dealer:  [1] 	hands:  [4, 7] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  0.08526049267866118
+total_profit:  -0.003397298192329338
+dealer:  [1] 	hands:  [4, 8] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.3804672232884851
+total_profit:  -0.00377197868358619
+dealer:  [1] 	hands:  [4, 9] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.38673160834583054
+total_profit:  -0.004152828281475726
+dealer:  [1] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  -0.4638251201018041
+total_profit:  -0.005979910492184223
+dealer:  [1] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.004030198752684563
+total_profit:  -0.0059812334592766895
+dealer:  [1] 	hands:  [5, 6] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  0.09995219658407475
+total_profit:  -0.005882801489777109
+dealer:  [1] 	hands:  [5, 7] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.3786695154193969
+total_profit:  -0.006255711615477357
+dealer:  [1] 	hands:  [5, 8] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.4142237766318648
+total_profit:  -0.0066636352383777605
+dealer:  [1] 	hands:  [5, 9] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.4158547573069632
+total_profit:  -0.007073165035484957
+dealer:  [1] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  -0.48633370646238294
+total_profit:  -0.008988912210520058
+dealer:  [1] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.29908328676035056
+total_profit:  -0.00908709033288367
+dealer:  [1] 	hands:  [6, 7] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.41886114294202537
+total_profit:  -0.00949958078987877
+dealer:  [1] 	hands:  [6, 8] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.42285945944034176
+total_profit:  -0.009916008750811375
+dealer:  [1] 	hands:  [6, 9] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.438404793735676
+total_profit:  -0.010347745608631824
+dealer:  [1] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  -0.4872898275471804
+total_profit:  -0.012267259099352744
+dealer:  [1] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.2912954609101754
+total_profit:  -0.012362880762853185
+dealer:  [1] 	hands:  [7, 8] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.4245342960416489
+total_profit:  -0.01278095808689026
+dealer:  [1] 	hands:  [7, 9] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.43780371997283757
+total_profit:  -0.013212103013004227
+dealer:  [1] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  -0.4237842359165888
+total_profit:  -0.014881457700934766
+dealer:  [1] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.2238170763233604
+total_profit:  -0.014954928674670413
+dealer:  [1] 	hands:  [8, 9] 	ratio:  0.000984790458474669
+opt strategy:  Buy_Insurance 	profit:  -0.3731215781767253
+total_profit:  -0.015322375244709863
+dealer:  [1] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  -0.20409159876071656
+total_profit:  -0.01612632508116744
+dealer:  [1] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Buy_Insurance 	profit:  -0.09427218788803153
+total_profit:  -0.01615727119821133
+dealer:  [1] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Buy_Insurance 	profit:  0.035440495642701304
+total_profit:  -0.01601766535040115
+dealer:  [1] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Buy_Insurance 	profit:  0.23839537709022934
+total_profit:  -0.014296022403913006
+dealer:  [2] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.4340298339105269
+total_profit:  -0.014153546257536861
+dealer:  [2] 	hands:  [1, 2] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.10711389015527928
+total_profit:  -0.014083223099540179
+dealer:  [2] 	hands:  [1, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.04848763597162396
+total_profit:  -0.01403547293828133
+dealer:  [2] 	hands:  [1, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.004077269715316675
+total_profit:  -0.014039488194593601
+dealer:  [2] 	hands:  [1, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.04055232483185636
+total_profit:  -0.014079423737156978
+dealer:  [2] 	hands:  [1, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.008625282998505415
+total_profit:  -0.014087917833555551
+dealer:  [2] 	hands:  [1, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.10976148034971533
+total_profit:  -0.013979825774999097
+dealer:  [2] 	hands:  [1, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.3595492742551547
+total_profit:  -0.013625745080361129
+dealer:  [2] 	hands:  [1, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.5954503013326518
+total_profit:  -0.013039351305112867
+dealer:  [2] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.473682200152788
+total_profit:  -0.007234278626975174
+dealer:  [2] 	hands:  [2, 2] 	ratio:  0.00010942116205274101
+opt strategy:  Split 	profit:  -0.016857972161711244
+total_profit:  -0.007236123245878962
+dealer:  [2] 	hands:  [2, 3] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.08052686879981814
+total_profit:  -0.00728899130724223
+dealer:  [2] 	hands:  [2, 4] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.12380434401277737
+total_profit:  -0.007370272198376562
+dealer:  [2] 	hands:  [2, 5] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.08996516996339193
+total_profit:  -0.007429336759026563
+dealer:  [2] 	hands:  [2, 6] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.022078604046702525
+total_profit:  -0.007443831958094318
+dealer:  [2] 	hands:  [2, 7] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.08182667006196209
+total_profit:  -0.007390110542143801
+dealer:  [2] 	hands:  [2, 8] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.3734827264239012
+total_profit:  -0.007144909058552226
+dealer:  [2] 	hands:  [2, 9] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.45827179356590775
+total_profit:  -0.006844041265424373
+dealer:  [2] 	hands:  [2, 10] 	ratio:  0.002626107889265784
+opt strategy:  Hit 	profit:  -0.261496056389321
+total_profit:  -0.0075307581221202595
+dealer:  [2] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.06528864934471397
+total_profit:  -0.007552190001760717
+dealer:  [2] 	hands:  [3, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.12437569651516617
+total_profit:  -0.007674674000954993
+dealer:  [2] 	hands:  [3, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.029543627690569757
+total_profit:  -0.007703768283613395
+dealer:  [2] 	hands:  [3, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.07181088694845587
+total_profit:  -0.007633049607331952
+dealer:  [2] 	hands:  [3, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.3667430608607036
+total_profit:  -0.007271884540284537
+dealer:  [2] 	hands:  [3, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.4606060606060538
+total_profit:  -0.00681828408668409
+dealer:  [2] 	hands:  [3, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.2933498297901772
+total_profit:  -0.007107172200056624
+dealer:  [2] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.32720641286817925
+total_profit:  -0.008396091213433848
+dealer:  [2] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  -0.025752973965736038
+total_profit:  -0.008404544974446784
+dealer:  [2] 	hands:  [4, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.07071935213479064
+total_profit:  -0.008334901231234931
+dealer:  [2] 	hands:  [4, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.36718444953738555
+total_profit:  -0.00797330148883024
+dealer:  [2] 	hands:  [4, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.46204057380527486
+total_profit:  -0.0075182883403186445
+dealer:  [2] 	hands:  [4, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.28792122909770085
+total_profit:  -0.00780183041952636
+dealer:  [2] 	hands:  [4, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2977421271538917
+total_profit:  -0.008095044025433464
+dealer:  [2] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.3310160427807477
+total_profit:  -0.009398969787563556
+dealer:  [2] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.38355827179356194
+total_profit:  -0.009273061612119778
+dealer:  [2] 	hands:  [5, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.49330277565571257
+total_profit:  -0.008787261745514962
+dealer:  [2] 	hands:  [5, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.26524064171122963
+total_profit:  -0.009048468198671878
+dealer:  [2] 	hands:  [5, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2691706985824627
+total_profit:  -0.00931354493433685
+dealer:  [2] 	hands:  [5, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.27543502249384555
+total_profit:  -0.009584790716418544
+dealer:  [2] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.3107715813598153
+total_profit:  -0.010808970268771464
+dealer:  [2] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.07620508561419029
+total_profit:  -0.010833985615838164
+dealer:  [2] 	hands:  [6, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2694762753586277
+total_profit:  -0.011099363280596634
+dealer:  [2] 	hands:  [6, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.273312961548255
+total_profit:  -0.01136851927730681
+dealer:  [2] 	hands:  [6, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2815550462609284
+total_profit:  -0.011645792000399967
+dealer:  [2] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.31477803242509017
+total_profit:  -0.012885753611878601
+dealer:  [2] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.05499475388884674
+total_profit:  -0.012903806381510568
+dealer:  [2] 	hands:  [7, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2799168152109326
+total_profit:  -0.013179465790296913
+dealer:  [2] 	hands:  [7, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.28629997453526834
+total_profit:  -0.013461411273480786
+dealer:  [2] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.1847084288260744
+total_profit:  -0.014189007666711849
+dealer:  [2] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.01779191173047943
+total_profit:  -0.014183167231741782
+dealer:  [2] 	hands:  [8, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.15535183770477823
+total_profit:  -0.014336156239219952
+dealer:  [2] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.07419998302351116
+total_profit:  -0.014043870498017808
+dealer:  [2] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Stand 	profit:  0.09867158984806057
+total_profit:  -0.014011480217949509
+dealer:  [2] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.3192258721670467
+total_profit:  -0.01275399784591606
+dealer:  [2] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.5344113402936899
+total_profit:  -0.00889458779455557
+dealer:  [3] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.45947254516441316
+total_profit:  -0.008743759735085907
+dealer:  [3] 	hands:  [1, 2] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.1383876113169266
+total_profit:  -0.008607476935889896
+dealer:  [3] 	hands:  [1, 3] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.07931957484851165
+total_profit:  -0.008555401495569175
+dealer:  [3] 	hands:  [1, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.0390550693640106
+total_profit:  -0.008516940435904431
+dealer:  [3] 	hands:  [1, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.006642630333333038
+total_profit:  -0.008523482034875872
+dealer:  [3] 	hands:  [1, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.04710409416291636
+total_profit:  -0.00847709437238914
+dealer:  [3] 	hands:  [1, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.1531024531024504
+total_profit:  -0.00832632053740478
+dealer:  [3] 	hands:  [1, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.39105622046798305
+total_profit:  -0.007941212102760744
+dealer:  [3] 	hands:  [1, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.5924949777890933
+total_profit:  -0.007357728701939884
+dealer:  [3] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.4814871403106693
+total_profit:  -0.001521911101416403
+dealer:  [3] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.023439145785898508
+total_profit:  -0.0015142168857081532
+dealer:  [3] 	hands:  [2, 3] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.04624490919290568
+total_profit:  -0.0015445779159256206
+dealer:  [3] 	hands:  [2, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.07540883728858185
+total_profit:  -0.001618839819372085
+dealer:  [3] 	hands:  [2, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.04963718661951656
+total_profit:  -0.0016677220471405113
+dealer:  [3] 	hands:  [2, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.020618379683250226
+total_profit:  -0.0016474172635592384
+dealer:  [3] 	hands:  [2, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.18079959256429512
+total_profit:  -0.0014693675499058128
+dealer:  [3] 	hands:  [2, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.45391732450555566
+total_profit:  -0.0010223540997963915
+dealer:  [3] 	hands:  [2, 9] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.47912740853916763
+total_profit:  -0.0005505139994733245
+dealer:  [3] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.23115052839317698
+total_profit:  -0.0014610533388052394
+dealer:  [3] 	hands:  [3, 3] 	ratio:  0.00010942116205274101
+opt strategy:  Split 	profit:  -0.015590416382574593
+total_profit:  -0.0014627592602827067
+dealer:  [3] 	hands:  [3, 4] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.07748475881066114
+total_profit:  -0.0015136300943853402
+dealer:  [3] 	hands:  [3, 5] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.011297114887009855
+total_profit:  -0.0015062132337526606
+dealer:  [3] 	hands:  [3, 6] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.16724386724386522
+total_profit:  -0.0013964131239525522
+dealer:  [3] 	hands:  [3, 7] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.4585688820982911
+total_profit:  -0.0010953502841900239
+dealer:  [3] 	hands:  [3, 8] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.5428656311009225
+total_profit:  -0.0007389443550286786
+dealer:  [3] 	hands:  [3, 9] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.2753925812749338
+total_profit:  -0.0009197470126115217
+dealer:  [3] 	hands:  [3, 10] 	ratio:  0.002626107889265784
+opt strategy:  Stand 	profit:  -0.28009506833036235
+total_profit:  -0.0016553068812983252
+dealer:  [3] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  0.024305414370047206
+total_profit:  -0.0016473283012446932
+dealer:  [3] 	hands:  [4, 5] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.17099567099566843
+total_profit:  -0.0014789333960076854
+dealer:  [3] 	hands:  [4, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.4665138782785807
+total_profit:  -0.001019514979932926
+dealer:  [3] 	hands:  [4, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.5668873610050029
+total_profit:  -0.000461249715785314
+dealer:  [3] 	hands:  [4, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.21833460656990034
+total_profit:  -0.0006762635530901726
+dealer:  [3] 	hands:  [4, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2541974365503774
+total_profit:  -0.0009265947631737043
+dealer:  [3] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.2608946608946602
+total_profit:  -0.0019543010540378873
+dealer:  [3] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.4751549104490253
+total_profit:  -0.001798325046668692
+dealer:  [3] 	hands:  [5, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.5894066717596087
+total_profit:  -0.0012178829801585181
+dealer:  [3] 	hands:  [5, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.20782616076733684
+total_profit:  -0.001422548200303614
+dealer:  [3] 	hands:  [5, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.21387827858416064
+total_profit:  -0.0016331734883282825
+dealer:  [3] 	hands:  [5, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2518037518037517
+total_profit:  -0.0018811474205127408
+dealer:  [3] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.25647228588405
+total_profit:  -0.002891433260519941
+dealer:  [3] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.008451541647854412
+total_profit:  -0.002894207593044677
+dealer:  [3] 	hands:  [6, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2108904167727692
+total_profit:  -0.0031018904632662465
+dealer:  [3] 	hands:  [6, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.21893727187844791
+total_profit:  -0.0033174977996166164
+dealer:  [3] 	hands:  [6, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.2547916136151429
+total_profit:  -0.0035684141496041735
+dealer:  [3] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.25962142432730584
+total_profit:  -0.00459110495557671
+dealer:  [3] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.006316579662168703
+total_profit:  -0.004589031453116211
+dealer:  [3] 	hands:  [7, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.22453102453102436
+total_profit:  -0.004810147463705905
+dealer:  [3] 	hands:  [7, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.26054664289958374
+total_profit:  -0.005066731311621022
+dealer:  [3] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.13806552924199889
+total_profit:  -0.005610593774988125
+dealer:  [3] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.06450200192491448
+total_profit:  -0.005589420122972069
+dealer:  [3] 	hands:  [8, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.14157541804600604
+total_profit:  -0.0057288422438183375
+dealer:  [3] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.10897631779984662
+total_profit:  -0.005299566891942368
+dealer:  [3] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Stand 	profit:  0.07765045412104232
+total_profit:  -0.0052740770831708255
+dealer:  [3] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.3267549444020015
+total_profit:  -0.003986936477144778
+dealer:  [3] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.5651218062982739
+total_profit:  9.425831612429759e-05
+dealer:  [4] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.5020815608788077
+total_profit:  0.0002590733596341371
+dealer:  [4] 	hands:  [1, 2] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.17894726738446992
+total_profit:  0.00043529892112447843
+dealer:  [4] 	hands:  [1, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.13446070245465336
+total_profit:  0.0005677145379416225
+dealer:  [4] 	hands:  [1, 4] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.08576884578367017
+total_profit:  0.0006240240985830517
+dealer:  [4] 	hands:  [1, 5] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.04693998811645833
+total_profit:  0.0006702501510010542
+dealer:  [4] 	hands:  [1, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.14590725178960423
+total_profit:  0.0008139382203857174
+dealer:  [4] 	hands:  [1, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.31207877090229885
+total_profit:  0.0011212704162628035
+dealer:  [4] 	hands:  [1, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.38745437568966756
+total_profit:  0.0015028317885362478
+dealer:  [4] 	hands:  [1, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.6185156891039221
+total_profit:  0.002111940137582675
+dealer:  [4] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.4875774552245118
+total_profit:  0.00797174847417119
+dealer:  [4] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.07254729233995325
+total_profit:  0.007995563101266041
+dealer:  [4] 	hands:  [2, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.014436239427344497
+total_profit:  0.008009779772110346
+dealer:  [4] 	hands:  [2, 4] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.018753663977810052
+total_profit:  0.007997467485879154
+dealer:  [4] 	hands:  [2, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.009198520256098717
+total_profit:  0.008006526100859446
+dealer:  [4] 	hands:  [2, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.09182253803280799
+total_profit:  0.008096952060187082
+dealer:  [4] 	hands:  [2, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.2765045412104211
+total_profit:  0.00836925109409602
+dealer:  [4] 	hands:  [2, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.4810033104150717
+total_profit:  0.008842938564687512
+dealer:  [4] 	hands:  [2, 9] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.567504173386522
+total_profit:  0.009401811259783113
+dealer:  [4] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.19886027643380677
+total_profit:  0.00861846844857652
+dealer:  [4] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.0840218550331372
+total_profit:  0.008646049755623178
+dealer:  [4] 	hands:  [3, 4] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.0021883642264332454
+total_profit:  0.008647486475763085
+dealer:  [4] 	hands:  [3, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.09825874460243489
+total_profit:  0.008744250749909262
+dealer:  [4] 	hands:  [3, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.2976742212036311
+total_profit:  0.009037397482684475
+dealer:  [4] 	hands:  [3, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.5680162974280593
+total_profit:  0.009596774512649738
+dealer:  [4] 	hands:  [3, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.5970291146761686
+total_profit:  0.010184723088214408
+dealer:  [4] 	hands:  [3, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1897971309736013
+total_profit:  0.009997812684585739
+dealer:  [4] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.19839572192513288
+total_profit:  0.00921629982876948
+dealer:  [4] 	hands:  [4, 4] 	ratio:  0.00010942116205274101
+opt strategy:  Hit 	profit:  0.11486454149108352
+total_profit:  0.009228868440378091
+dealer:  [4] 	hands:  [4, 5] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.3071131482896166
+total_profit:  0.009430496505783245
+dealer:  [4] 	hands:  [4, 6] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.5870129870129839
+total_profit:  0.009815886364857312
+dealer:  [4] 	hands:  [4, 7] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.6782700959171518
+total_profit:  0.010261188977342585
+dealer:  [4] 	hands:  [4, 8] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.17872846108140172
+total_profit:  0.010143848921922034
+dealer:  [4] 	hands:  [4, 9] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.18672438672438618
+total_profit:  0.010021259325648228
+dealer:  [4] 	hands:  [4, 10] 	ratio:  0.002626107889265784
+opt strategy:  Stand 	profit:  -0.19347254053136353
+total_profit:  0.009513179560602521
+dealer:  [4] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.5919446566505361
+total_profit:  0.009707493377207358
+dealer:  [4] 	hands:  [5, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.7017231134878157
+total_profit:  0.010398543603861297
+dealer:  [4] 	hands:  [5, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1398098633392746
+total_profit:  0.010260860184444132
+dealer:  [4] 	hands:  [5, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.17745522451404772
+total_profit:  0.010086103972536217
+dealer:  [4] 	hands:  [5, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.18352431881843634
+total_profit:  0.009905370974465758
+dealer:  [4] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.19011119599354842
+total_profit:  0.009156492207011141
+dealer:  [4] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.07000070851772539
+total_profit:  0.009179470883622715
+dealer:  [4] 	hands:  [6, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1457686104744922
+total_profit:  0.009035919346882325
+dealer:  [4] 	hands:  [6, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.18152958152958099
+total_profit:  0.008857150747061095
+dealer:  [4] 	hands:  [6, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.18746286393345146
+total_profit:  0.008672539107341096
+dealer:  [4] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.19409218232747572
+total_profit:  0.0079079785904586
+dealer:  [4] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.08537900008488322
+total_profit:  0.007936005398671167
+dealer:  [4] 	hands:  [7, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.18973771326712452
+total_profit:  0.0077491535090329
+dealer:  [4] 	hands:  [7, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.19569646040234256
+total_profit:  0.0075564335020714074
+dealer:  [4] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.07112723877429661
+total_profit:  0.0072762517977411
+dealer:  [4] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.08168417965915616
+total_profit:  0.007303065731319989
+dealer:  [4] 	hands:  [8, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.09871827518886245
+total_profit:  0.007205848915836921
+dealer:  [4] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.13686868686868725
+total_profit:  0.007744996823405883
+dealer:  [4] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Stand 	profit:  0.14200407435701434
+total_profit:  0.007791611575902988
+dealer:  [4] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.3636321195144714
+total_profit:  0.009224017342674076
+dealer:  [4] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.5938035820388741
+total_profit:  0.013512346089207143
+dealer:  [5] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.55742239439469
+total_profit:  0.013695327507653808
+dealer:  [5] 	hands:  [1, 2] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.23080383668618892
+total_profit:  0.013922620923801712
+dealer:  [5] 	hands:  [1, 3] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.2177489177489173
+total_profit:  0.014137057980344031
+dealer:  [5] 	hands:  [1, 4] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.1795348442407256
+total_profit:  0.014313862181916034
+dealer:  [5] 	hands:  [1, 5] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.14487734487734452
+total_profit:  0.014408978066505602
+dealer:  [5] 	hands:  [1, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.29870695753048565
+total_profit:  0.014703141828161622
+dealer:  [5] 	hands:  [1, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.34673627026568143
+total_profit:  0.015044604398726359
+dealer:  [5] 	hands:  [1, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.4506762300879936
+total_profit:  0.01548842604997835
+dealer:  [5] 	hands:  [1, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.6621693121693109
+total_profit:  0.01614052407049742
+dealer:  [5] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.4919531448943224
+total_profit:  0.022017568956830234
+dealer:  [5] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.16787375505016758
+total_profit:  0.022072675780897475
+dealer:  [5] 	hands:  [2, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.08246351852080032
+total_profit:  0.022153885067109007
+dealer:  [5] 	hands:  [2, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.05121366997434362
+total_profit:  0.02220431980064321
+dealer:  [5] 	hands:  [2, 5] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.08822431758627225
+total_profit:  0.022262241444752813
+dealer:  [5] 	hands:  [2, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.1649180884474999
+total_profit:  0.022424651204685793
+dealer:  [5] 	hands:  [2, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.3437908496732013
+total_profit:  0.02276321315315486
+dealer:  [5] 	hands:  [2, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.592852898735249
+total_profit:  0.023347049031108385
+dealer:  [5] 	hands:  [2, 9] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.6726169255580999
+total_profit:  0.02400943576160657
+dealer:  [5] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.13868941516000355
+total_profit:  0.023463115710642555
+dealer:  [5] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.16800924879486864
+total_profit:  0.023518267012358783
+dealer:  [5] 	hands:  [3, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.07781604760672625
+total_profit:  0.023594899513558098
+dealer:  [5] 	hands:  [3, 5] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.19752992105933304
+total_profit:  0.023724583234573087
+dealer:  [5] 	hands:  [3, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.42574484339190044
+total_profit:  0.024143852694090223
+dealer:  [5] 	hands:  [3, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.6217383923266254
+total_profit:  0.024756134730520865
+dealer:  [5] 	hands:  [3, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.6946099651981976
+total_profit:  0.025440179996609472
+dealer:  [5] 	hands:  [3, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1294796706561412
+total_profit:  0.02531266965238086
+dealer:  [5] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.13540446481622959
+total_profit:  0.024779289552437293
+dealer:  [5] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.2078686019862488
+total_profit:  0.024847525224388135
+dealer:  [5] 	hands:  [4, 5] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.4575502928444085
+total_profit:  0.025147919332831777
+dealer:  [5] 	hands:  [4, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.7089041677276936
+total_profit:  0.025846041393182938
+dealer:  [5] 	hands:  [4, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.7265682030387877
+total_profit:  0.026561558826966623
+dealer:  [5] 	hands:  [4, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1221628045157459
+total_profit:  0.02644125406269901
+dealer:  [5] 	hands:  [4, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.12557507851625527
+total_profit:  0.026317588923553993
+dealer:  [5] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.13151684916390827
+total_profit:  0.025799522770812915
+dealer:  [5] 	hands:  [5, 5] 	ratio:  0.00010942116205274101
+opt strategy:  Double 	profit:  0.7313470842882597
+total_profit:  0.02587954761863962
+dealer:  [5] 	hands:  [5, 6] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.815168491639078
+total_profit:  0.02641472772038319
+dealer:  [5] 	hands:  [5, 7] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.1126814362108477
+total_profit:  0.026340749318231414
+dealer:  [5] 	hands:  [5, 8] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.1192513368983954
+total_profit:  0.026262457599072822
+dealer:  [5] 	hands:  [5, 9] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.12259570494864591
+total_profit:  0.026181970212083888
+dealer:  [5] 	hands:  [5, 10] 	ratio:  0.002626107889265784
+opt strategy:  Stand 	profit:  -0.12856294032764626
+total_profit:  0.02584435006022225
+dealer:  [5] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.1473246116628473
+total_profit:  0.025892711350843603
+dealer:  [5] 	hands:  [6, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1208641032170441
+total_profit:  0.02577368553522336
+dealer:  [5] 	hands:  [6, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.12745946863593893
+total_profit:  0.025648164666668437
+dealer:  [5] 	hands:  [6, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.13084627790510117
+total_profit:  0.02551930850066057
+dealer:  [5] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.13683048977166612
+total_profit:  0.024980311057638357
+dealer:  [5] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.09760101010101037
+total_profit:  0.02501234990546668
+dealer:  [5] 	hands:  [7, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1650284356166709
+total_profit:  0.02484983147669438
+dealer:  [5] 	hands:  [7, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.16844919786096257
+total_profit:  0.024683944313903194
+dealer:  [5] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.051604278074866006
+total_profit:  0.024480666711244787
+dealer:  [5] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.1404155192135506
+total_profit:  0.024526759999092543
+dealer:  [5] 	hands:  [8, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.05362448009506804
+total_profit:  0.024473951122754255
+dealer:  [5] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.18623631270690133
+total_profit:  0.0252075660978553
+dealer:  [5] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Stand 	profit:  0.1873525167642811
+total_profit:  0.025269067088148862
+dealer:  [5] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.42637297343179603
+total_profit:  0.026948619232097286
+dealer:  [5] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.6420040743570135
+total_profit:  0.03158504213477405
+dealer:  [6] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.5766755091540303
+total_profit:  0.03177434364779102
+dealer:  [6] 	hands:  [1, 2] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.24059927001103432
+total_profit:  0.032011283513213855
+dealer:  [6] 	hands:  [1, 3] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.22935234699940557
+total_profit:  0.032237147516167644
+dealer:  [6] 	hands:  [1, 4] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.2006818889171829
+total_profit:  0.03243477712556196
+dealer:  [6] 	hands:  [1, 5] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.22138471550236224
+total_profit:  0.03265279468104082
+dealer:  [6] 	hands:  [1, 6] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.25667600373482685
+total_profit:  0.03282130940063913
+dealer:  [6] 	hands:  [1, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.370155334861217
+total_profit:  0.033185834842563953
+dealer:  [6] 	hands:  [1, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.46730328495034335
+total_profit:  0.03364603065879692
+dealer:  [6] 	hands:  [1, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.6741815918286493
+total_profit:  0.034309958257709036
+dealer:  [6] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.495416348357525
+total_profit:  0.04020064526294712
+dealer:  [6] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.1619178845780741
+total_profit:  0.040253796992210086
+dealer:  [6] 	hands:  [2, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.0717097966997159
+total_profit:  0.040324416115779124
+dealer:  [6] 	hands:  [2, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.052938056270895484
+total_profit:  0.0403765490084849
+dealer:  [6] 	hands:  [2, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.09240878104255715
+total_profit:  0.04046755229433488
+dealer:  [6] 	hands:  [2, 6] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.1378203084141767
+total_profit:  0.04055803504414176
+dealer:  [6] 	hands:  [2, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.35670571258806505
+total_profit:  0.04090931542638189
+dealer:  [6] 	hands:  [2, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.6110686698921971
+total_profit:  0.041511090021964535
+dealer:  [6] 	hands:  [2, 9] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.6792589763177977
+total_profit:  0.04218001778067557
+dealer:  [6] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.1604836000056593
+total_profit:  0.04154784690856662
+dealer:  [6] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.1562346867974113
+total_profit:  0.041599133051513575
+dealer:  [6] 	hands:  [3, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.07808824670304736
+total_profit:  0.04167603361178575
+dealer:  [6] 	hands:  [3, 5] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.21830489771666234
+total_profit:  0.041891018192095404
+dealer:  [6] 	hands:  [3, 6] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.38660555131143337
+total_profit:  0.04214483516417863
+dealer:  [6] 	hands:  [3, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.6369790340378554
+total_profit:  0.04277212603914752
+dealer:  [6] 	hands:  [3, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.7056149732620292
+total_profit:  0.043467008932172826
+dealer:  [6] 	hands:  [3, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1569136745607338
+total_profit:  0.04331248184266122
+dealer:  [6] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.16173499702911487
+total_profit:  0.042675381515158414
+dealer:  [6] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.2226466344113401
+total_profit:  0.042748468275551676
+dealer:  [6] 	hands:  [4, 5] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.47525676937441536
+total_profit:  0.043216496607357095
+dealer:  [6] 	hands:  [4, 6] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.6729946524064156
+total_profit:  0.04365833574888664
+dealer:  [6] 	hands:  [4, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.7287199728376175
+total_profit:  0.044375972225037044
+dealer:  [6] 	hands:  [4, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.14836601307189556
+total_profit:  0.04422986279100191
+dealer:  [6] 	hands:  [4, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1539682539682541
+total_profit:  0.04407823632358597
+dealer:  [6] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.1587216704863763
+total_profit:  0.04345300597699339
+dealer:  [6] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.7574102368220005
+total_profit:  0.043701636101784506
+dealer:  [6] 	hands:  [5, 6] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.7689966895849227
+total_profit:  0.044206503170119066
+dealer:  [6] 	hands:  [5, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.14486885663356275
+total_profit:  0.0440638377023762
+dealer:  [6] 	hands:  [5, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.14739410915881535
+total_profit:  0.04391868539004123
+dealer:  [6] 	hands:  [5, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.15301332654273847
+total_profit:  0.04376799932604247
+dealer:  [6] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.15790679908326966
+total_profit:  0.04314597888978055
+dealer:  [6] 	hands:  [6, 6] 	ratio:  0.00010942116205274101
+opt strategy:  Split 	profit:  0.07653555087186872
+total_profit:  0.04315435349869529
+dealer:  [6] 	hands:  [6, 7] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.18164417282064327
+total_profit:  0.04303509919987443
+dealer:  [6] 	hands:  [6, 8] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.18422884305237264
+total_profit:  0.04291414799533189
+dealer:  [6] 	hands:  [6, 9] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.1901451489686785
+total_profit:  0.04278931257637883
+dealer:  [6] 	hands:  [6, 10] 	ratio:  0.002626107889265784
+opt strategy:  Stand 	profit:  -0.19214413037942446
+total_profit:  0.04228472135971331
+dealer:  [6] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.09635270774976684
+total_profit:  0.04231635043546003
+dealer:  [6] 	hands:  [7, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.19052287581699368
+total_profit:  0.042128725325234304
+dealer:  [6] 	hands:  [7, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.1935446906035143
+total_profit:  0.04193812436063953
+dealer:  [6] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.02623928359222505
+total_profit:  0.0418347635761642
+dealer:  [6] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.16346709504916335
+total_profit:  0.04188842385465719
+dealer:  [6] 	hands:  [8, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.026328410151939652
+total_profit:  0.04186249588755275
+dealer:  [6] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.25166793990323444
+total_profit:  0.042853856631235476
+dealer:  [6] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Stand 	profit:  0.24679356591121238
+total_profit:  0.04293486994754291
+dealer:  [6] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.46365546218487363
+total_profit:  0.04476128384826022
+dealer:  [6] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.6740280960869176
+total_profit:  0.04962897772524201
+dealer:  [7] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.511822258317322
+total_profit:  0.04979699028405063
+dealer:  [7] 	hands:  [1, 2] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.20730540957829824
+total_profit:  0.05000114267339352
+dealer:  [7] 	hands:  [1, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.12571069076050054
+total_profit:  0.05012494136218272
+dealer:  [7] 	hands:  [1, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.07572187407872837
+total_profit:  0.05019951154127327
+dealer:  [7] 	hands:  [1, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.010179267373290557
+total_profit:  0.050189487095889794
+dealer:  [7] 	hands:  [1, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.07066476496919999
+total_profit:  0.050259077082181816
+dealer:  [7] 	hands:  [1, 7] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  0.4107079195314485
+total_profit:  0.050528717909098186
+dealer:  [7] 	hands:  [1, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.6068542568542559
+total_profit:  0.051126342190933
+dealer:  [7] 	hands:  [1, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.7629488158899913
+total_profit:  0.05187768690512601
+dealer:  [7] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.4977591036414566
+total_profit:  0.05777760240256473
+dealer:  [7] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  0.040612538025962944
+total_profit:  0.05779093401587886
+dealer:  [7] 	hands:  [2, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.018069822137066288
+total_profit:  0.057773139027451945
+dealer:  [7] 	hands:  [2, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.09664996941265942
+total_profit:  0.05767795905976249
+dealer:  [7] 	hands:  [2, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.026706623163276627
+total_profit:  0.05765165863209321
+dealer:  [7] 	hands:  [2, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.12247823090624303
+total_profit:  0.057772274025260535
+dealer:  [7] 	hands:  [2, 7] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  0.20314567597566846
+total_profit:  0.05790564464084802
+dealer:  [7] 	hands:  [2, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.4138782785841591
+total_profit:  0.05831322802056762
+dealer:  [7] 	hands:  [2, 9] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.4392552980788253
+total_profit:  0.058745802446950095
+dealer:  [7] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.20962731532821716
+total_profit:  0.05792004652706654
+dealer:  [7] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.005513791477000665
+total_profit:  0.057918236550654346
+dealer:  [7] 	hands:  [3, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.03144358244275249
+total_profit:  0.05788727121068446
+dealer:  [7] 	hands:  [3, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.12379065529356059
+total_profit:  0.05800917906686588
+dealer:  [7] 	hands:  [3, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.22513970562565147
+total_profit:  0.05823089450078982
+dealer:  [7] 	hands:  [3, 7] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.4476148034971551
+total_profit:  0.058524765692493826
+dealer:  [7] 	hands:  [3, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.4603514132925878
+total_profit:  0.058978115371849694
+dealer:  [7] 	hands:  [3, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.25638646078340144
+total_profit:  0.05872562843158811
+dealer:  [7] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.27162244779387856
+total_profit:  0.057655663652008325
+dealer:  [7] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  0.14834367067941534
+total_profit:  0.05770435946249506
+dealer:  [7] 	hands:  [4, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.231878935652951
+total_profit:  0.05793271162584735
+dealer:  [7] 	hands:  [4, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.48964858670740863
+total_profit:  0.05841491288204241
+dealer:  [7] 	hands:  [4, 7] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.4766827943298518
+total_profit:  0.058727867993759134
+dealer:  [7] 	hands:  [4, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.25420503047667453
+total_profit:  0.058477529305249444
+dealer:  [7] 	hands:  [4, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.27724782172155304
+total_profit:  0.058204498295785174
+dealer:  [7] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.3527394052684616
+total_profit:  0.05681500069323953
+dealer:  [7] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.47585519056107173
+total_profit:  0.0569712065769996
+dealer:  [7] 	hands:  [5, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.4929929547576594
+total_profit:  0.05745670133494017
+dealer:  [7] 	hands:  [5, 7] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.27278461415113475
+total_profit:  0.057277610878117016
+dealer:  [7] 	hands:  [5, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.3500633871583826
+total_profit:  0.05693287179458212
+dealer:  [7] 	hands:  [5, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.3612777557870658
+total_profit:  0.056577088907823876
+dealer:  [7] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.3663112086232346
+total_profit:  0.055134129775485936
+dealer:  [7] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.08842101787140963
+total_profit:  0.05510510438390981
+dealer:  [7] 	hands:  [6, 7] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.3552943563789154
+total_profit:  0.05487184405583524
+dealer:  [7] 	hands:  [6, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.36214710340392287
+total_profit:  0.05451520504383882
+dealer:  [7] 	hands:  [6, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.36465144464432914
+total_profit:  0.05415609978048408
+dealer:  [7] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.36614304812834264
+total_profit:  0.052713803059549584
+dealer:  [7] 	hands:  [7, 7] 	ratio:  0.00010942116205274101
+opt strategy:  Split 	profit:  -0.03180089487635441
+total_profit:  0.0527103233686779
+dealer:  [7] 	hands:  [7, 8] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.31208923574317343
+total_profit:  0.05250542836764288
+dealer:  [7] 	hands:  [7, 9] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.36455627705627724
+total_profit:  0.05226608733882817
+dealer:  [7] 	hands:  [7, 10] 	ratio:  0.002626107889265784
+opt strategy:  Stand 	profit:  -0.13087174263644896
+total_profit:  0.05192240402300863
+dealer:  [7] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.12458025003071
+total_profit:  0.05196329917019017
+dealer:  [7] 	hands:  [8, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  -0.13084839996604747
+total_profit:  0.05183444091439693
+dealer:  [7] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.3781597487479835
+total_profit:  0.0533240733637817
+dealer:  [7] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Stand 	profit:  0.39537178507766724
+total_profit:  0.05345385948427989
+dealer:  [7] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.5973071046600453
+total_profit:  0.055806748834073265
+dealer:  [7] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.7465113318054477
+total_profit:  0.061197901903244895
+dealer:  [8] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.4652930896526034
+total_profit:  0.06135064063493959
+dealer:  [8] 	hands:  [1, 2] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.16420268180585998
+total_profit:  0.061512345869237955
+dealer:  [8] 	hands:  [1, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.13392502995414504
+total_profit:  0.06164423396088773
+dealer:  [8] 	hands:  [1, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.023303854084807257
+total_profit:  0.061667183374036136
+dealer:  [8] 	hands:  [1, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.05724630604522704
+total_profit:  0.061610807758059875
+dealer:  [8] 	hands:  [1, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.04353452325048647
+total_profit:  0.061567935374948556
+dealer:  [8] 	hands:  [1, 7] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.12499787793905393
+total_profit:  0.061691032092472516
+dealer:  [8] 	hands:  [1, 8] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  0.609591715474068
+total_profit:  0.06209124549578189
+dealer:  [8] 	hands:  [1, 9] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.7767464561582198
+total_profit:  0.06285617799446051
+dealer:  [8] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.4990068754774641
+total_profit:  0.06876100866709305
+dealer:  [8] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  0.023732007404623626
+total_profit:  0.06876879901857721
+dealer:  [8] 	hands:  [2, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.0571300854163759
+total_profit:  0.06871253785556733
+dealer:  [8] 	hands:  [2, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.153707825750046
+total_profit:  0.06856116785537579
+dealer:  [8] 	hands:  [2, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.16530216579137363
+total_profit:  0.06839837985973925
+dealer:  [8] 	hands:  [2, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.019346452290593744
+total_profit:  0.06837932765811813
+dealer:  [8] 	hands:  [2, 7] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.1344251505180109
+total_profit:  0.0685117082637273
+dealer:  [8] 	hands:  [2, 8] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.2918173329938027
+total_profit:  0.06870329421382718
+dealer:  [8] 	hands:  [2, 9] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.31176753529694595
+total_profit:  0.06901031990784977
+dealer:  [8] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.2708509157776831
+total_profit:  0.06794339431774181
+dealer:  [8] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.0847276332057578
+total_profit:  0.06791558132949176
+dealer:  [8] 	hands:  [3, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.17952269201913418
+total_profit:  0.06773878909531163
+dealer:  [8] 	hands:  [3, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.020917617372788244
+total_profit:  0.06771818962530889
+dealer:  [8] 	hands:  [3, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.15034015995205488
+total_profit:  0.06786624318035522
+dealer:  [8] 	hands:  [3, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.3353068500127317
+total_profit:  0.06819645016690896
+dealer:  [8] 	hands:  [3, 8] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.3134538663950418
+total_profit:  0.06840224108477419
+dealer:  [8] 	hands:  [3, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.3260195450369787
+total_profit:  0.06808118014754552
+dealer:  [8] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.32807759931929786
+total_profit:  0.06678882938974984
+dealer:  [8] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  -0.01703869646587858
+total_profit:  0.06678323620784836
+dealer:  [8] 	hands:  [4, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.13763529835606425
+total_profit:  0.06691877813641872
+dealer:  [8] 	hands:  [4, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.318775995246583
+total_profit:  0.06723270569492833
+dealer:  [8] 	hands:  [4, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.3257448433919014
+total_profit:  0.067553496108598
+dealer:  [8] 	hands:  [4, 8] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.3295511584399157
+total_profit:  0.06733713688432406
+dealer:  [8] 	hands:  [4, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.3431014981750277
+total_profit:  0.06699925380263293
+dealer:  [8] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.35389932891533954
+total_profit:  0.06560518707312726
+dealer:  [8] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.3239453357100413
+total_profit:  0.06571152649835214
+dealer:  [8] 	hands:  [5, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.3580680757151342
+total_profit:  0.06606414852280079
+dealer:  [8] 	hands:  [5, 7] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.3326720794622836
+total_profit:  0.0657365362331454
+dealer:  [8] 	hands:  [5, 8] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.40868310245652517
+total_profit:  0.06546822475325273
+dealer:  [8] 	hands:  [5, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.3718174249783003
+total_profit:  0.06510206250083948
+dealer:  [8] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.4210164808836537
+total_profit:  0.06344361044790027
+dealer:  [8] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.17168559360070546
+total_profit:  0.06338725233642176
+dealer:  [8] 	hands:  [6, 7] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.41906122419642355
+total_profit:  0.0629745648413164
+dealer:  [8] 	hands:  [6, 8] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.3701501974201217
+total_profit:  0.06273155125290183
+dealer:  [8] 	hands:  [6, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.4246247717073145
+total_profit:  0.06231338482929249
+dealer:  [8] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.41496689584924884
+total_profit:  0.06067876307083172
+dealer:  [8] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.19010449014565522
+total_profit:  0.06061635870816218
+dealer:  [8] 	hands:  [7, 8] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.3687125901191367
+total_profit:  0.060374288947716306
+dealer:  [8] 	hands:  [7, 9] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.41892825311942966
+total_profit:  0.05996173240125883
+dealer:  [8] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.3994079449961805
+total_profit:  0.05838839986817397
+dealer:  [8] 	hands:  [8, 8] 	ratio:  0.00010942116205274101
+opt strategy:  Split 	profit:  -0.037651067451831374
+total_profit:  0.058384280044620866
+dealer:  [8] 	hands:  [8, 9] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.42761437908496747
+total_profit:  0.058103539671001236
+dealer:  [8] 	hands:  [8, 10] 	ratio:  0.002626107889265784
+opt strategy:  Stand 	profit:  0.08849206349206296
+total_profit:  0.05833592937707515
+dealer:  [8] 	hands:  [9, 9] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.0915193029907719
+total_profit:  0.058365971822525675
+dealer:  [8] 	hands:  [9, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.5643748408454285
+total_profit:  0.06058913565559663
+dealer:  [8] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.7712375859434673
+total_profit:  0.06615885670519384
+dealer:  [9] 	hands:  [1, 1] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  0.39886481817947944
+total_profit:  0.0662897894609153
+dealer:  [9] 	hands:  [1, 2] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.16348231570242944
+total_profit:  0.06645078528554839
+dealer:  [9] 	hands:  [1, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  0.07236046579351829
+total_profit:  0.06652204518183263
+dealer:  [9] 	hands:  [1, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.02301047901646827
+total_profit:  0.06649938468165228
+dealer:  [9] 	hands:  [1, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.11815832605443612
+total_profit:  0.06638302348956454
+dealer:  [9] 	hands:  [1, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.09878507490076516
+total_profit:  0.06628574089036256
+dealer:  [9] 	hands:  [1, 7] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.06315860215053772
+total_profit:  0.06622354290159412
+dealer:  [9] 	hands:  [1, 8] 	ratio:  0.000984790458474669
+opt strategy:  Stand 	profit:  0.28601561836855893
+total_profit:  0.06650520835353821
+dealer:  [9] 	hands:  [1, 9] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  0.7650920974450375
+total_profit:  0.06700751195181703
+dealer:  [9] 	hands:  [1, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  1.4996180290297927
+total_profit:  0.07291475005719755
+dealer:  [9] 	hands:  [2, 2] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  -0.025764617063834414
+total_profit:  0.07290629247418065
+dealer:  [9] 	hands:  [2, 3] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.11295500751620309
+total_profit:  0.07279505546054175
+dealer:  [9] 	hands:  [2, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.20294537552720676
+total_profit:  0.07259519679113101
+dealer:  [9] 	hands:  [2, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.2059295434123471
+total_profit:  0.07239239934166049
+dealer:  [9] 	hands:  [2, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.16459828216884664
+total_profit:  0.07223030452389928
+dealer:  [9] 	hands:  [2, 7] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.022928734890013375
+total_profit:  0.0722077245245547
+dealer:  [9] 	hands:  [2, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.183091418385536
+total_profit:  0.07238803120640938
+dealer:  [9] 	hands:  [2, 9] 	ratio:  0.000656526972316446
+opt strategy:  Double 	profit:  0.20465580171462477
+total_profit:  0.07252239326027608
+dealer:  [9] 	hands:  [2, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.3387387556439977
+total_profit:  0.07118804648238092
+dealer:  [9] 	hands:  [3, 3] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.157073667169534
+total_profit:  0.07113648493281219
+dealer:  [9] 	hands:  [3, 4] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.23166154263106345
+total_profit:  0.07090834685603359
+dealer:  [9] 	hands:  [3, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.1769132833770523
+total_profit:  0.07073412434258644
+dealer:  [9] 	hands:  [3, 6] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.018310398817395893
+total_profit:  0.0707160924365402
+dealer:  [9] 	hands:  [3, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.15240217299040837
+total_profit:  0.07086617664235197
+dealer:  [9] 	hands:  [3, 8] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.20504626092861356
+total_profit:  0.07106810424366038
+dealer:  [9] 	hands:  [3, 9] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.4017095126173636
+total_profit:  0.07080437111359099
+dealer:  [9] 	hands:  [3, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.3454861654461394
+total_profit:  0.06944344519652555
+dealer:  [9] 	hands:  [4, 4] 	ratio:  0.000328263486158223
+opt strategy:  Hit 	profit:  -0.15901288313468098
+total_profit:  0.06939124707316369
+dealer:  [9] 	hands:  [4, 5] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.018895192322611776
+total_profit:  0.06937263926805333
+dealer:  [9] 	hands:  [4, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.16553773024361262
+total_profit:  0.0695356592453148
+dealer:  [9] 	hands:  [4, 7] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.2172735760971054
+total_profit:  0.0697496281899339
+dealer:  [9] 	hands:  [4, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.40273996359296405
+total_profit:  0.06935301371654111
+dealer:  [9] 	hands:  [4, 9] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.35362610586756704
+total_profit:  0.06912084863992382
+dealer:  [9] 	hands:  [4, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.40769418526208145
+total_profit:  0.06751487526543701
+dealer:  [9] 	hands:  [5, 5] 	ratio:  0.000328263486158223
+opt strategy:  Double 	profit:  0.17904677022324073
+total_profit:  0.06757364978241585
+dealer:  [9] 	hands:  [5, 6] 	ratio:  0.000984790458474669
+opt strategy:  Double 	profit:  0.2356294032764622
+total_profit:  0.06780569537049859
+dealer:  [9] 	hands:  [5, 7] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.39687711778259693
+total_profit:  0.06741485457171936
+dealer:  [9] 	hands:  [5, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.41777077155397835
+total_profit:  0.06700343790206341
+dealer:  [9] 	hands:  [5, 9] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.42374146982840055
+total_profit:  0.06672524019783205
+dealer:  [9] 	hands:  [5, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.477962131822426
+total_profit:  0.0648424700101083
+dealer:  [9] 	hands:  [6, 6] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.2582682845075282
+total_profit:  0.06475768996267176
+dealer:  [9] 	hands:  [6, 7] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.42653757220141236
+total_profit:  0.06433763983138685
+dealer:  [9] 	hands:  [6, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.44057061020889293
+total_profit:  0.06390377009816876
+dealer:  [9] 	hands:  [6, 9] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.48434956521709366
+total_profit:  0.06358578154457399
+dealer:  [9] 	hands:  [6, 10] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.4700609031491384
+total_profit:  0.061734135575280964
+dealer:  [9] 	hands:  [7, 7] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.26454816681935345
+total_profit:  0.06164729407178408
+dealer:  [9] 	hands:  [7, 8] 	ratio:  0.000984790458474669
+opt strategy:  Hit 	profit:  -0.43487141679741304
+total_profit:  0.061219036849858625
+dealer:  [9] 	hands:  [7, 9] 	ratio:  0.000656526972316446
+opt strategy:  Hit 	profit:  -0.47372782446311856
+total_profit:  0.0609080217555618
+dealer:  [9] 	hands:  [7, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.41425176131058494
+total_profit:  0.05927621702778184
+dealer:  [9] 	hands:  [8, 8] 	ratio:  0.000328263486158223
+opt strategy:  Split 	profit:  -0.20484908030979176
+total_profit:  0.05920897255454304
+dealer:  [9] 	hands:  [8, 9] 	ratio:  0.000656526972316446
+opt strategy:  Stand 	profit:  -0.40881928528987355
+total_profit:  0.058940571666947106
+dealer:  [9] 	hands:  [8, 10] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.20345047109753023
+total_profit:  0.05813914733611101
+dealer:  [9] 	hands:  [9, 9] 	ratio:  0.00010942116205274101
+opt strategy:  Split 	profit:  -0.05446872912186919
+total_profit:  0.058133187304474955
+dealer:  [9] 	hands:  [9, 10] 	ratio:  0.002626107889265784
+opt strategy:  Stand 	profit:  0.25182285035226126
+total_profit:  0.058794501278482424
+dealer:  [9] 	hands:  [10, 10] 	ratio:  0.007221796695480906
+opt strategy:  Stand 	profit:  0.7330786860198617
+total_profit:  0.06408864651070814
+dealer:  [10] 	hands:  [1, 1] 	ratio:  0.001313053944632892
+opt strategy:  Split 	profit:  0.2951011196077681
+total_profit:  0.0644761301998747
+dealer:  [10] 	hands:  [1, 2] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  0.05904631900006664
+total_profit:  0.06470872320611197
+dealer:  [10] 	hands:  [1, 3] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.020216370068718265
+total_profit:  0.0646290876527173
+dealer:  [10] 	hands:  [1, 4] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.10981478714816008
+total_profit:  0.06419650943438555
+dealer:  [10] 	hands:  [1, 5] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.20522311702458756
+total_profit:  0.06338810236436858
+dealer:  [10] 	hands:  [1, 6] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.19158759779164192
+total_profit:  0.06263340781129942
+dealer:  [10] 	hands:  [1, 7] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.16114489409318622
+total_profit:  0.0619986319947599
+dealer:  [10] 	hands:  [1, 8] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.004723707664883614
+total_profit:  0.062017239443707906
+dealer:  [10] 	hands:  [1, 9] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  0.4668618962736606
+total_profit:  0.06385628400721068
+dealer:  [10] 	hands:  [1, 10] 	ratio:  0.014443593390961813
+opt strategy:  Stand 	profit:  1.4165902724726243
+total_profit:  0.08431693790439707
+dealer:  [10] 	hands:  [2, 2] 	ratio:  0.001313053944632892
+opt strategy:  Hit 	profit:  -0.12818311965548684
+total_profit:  0.08414862655349808
+dealer:  [10] 	hands:  [2, 3] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.2069127555714368
+total_profit:  0.08333356372380428
+dealer:  [10] 	hands:  [2, 4] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.2893104903455354
+total_profit:  0.08219392288208864
+dealer:  [10] 	hands:  [2, 5] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.29816240146677764
+total_profit:  0.08101941292992713
+dealer:  [10] 	hands:  [2, 6] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.2633384258517678
+total_profit:  0.0799820802534129
+dealer:  [10] 	hands:  [2, 7] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.19361462335015459
+total_profit:  0.07921940091862731
+dealer:  [10] 	hands:  [2, 8] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.03603592526534882
+total_profit:  0.07907744957717282
+dealer:  [10] 	hands:  [2, 9] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  0.023762479943101433
+total_profit:  0.07917105383124347
+dealer:  [10] 	hands:  [2, 10] 	ratio:  0.014443593390961813
+opt strategy:  Hit 	profit:  -0.38085780548778647
+total_profit:  0.07367009854900386
+dealer:  [10] 	hands:  [3, 3] 	ratio:  0.001313053944632892
+opt strategy:  Split 	profit:  -0.2673163456971929
+total_profit:  0.07331909776682131
+dealer:  [10] 	hands:  [3, 4] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.31333674845386184
+total_profit:  0.07208481360615396
+dealer:  [10] 	hands:  [3, 5] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.26674843845977614
+total_profit:  0.07103404833812114
+dealer:  [10] 	hands:  [3, 6] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.1737550848174069
+total_profit:  0.0703495989395626
+dealer:  [10] 	hands:  [3, 7] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.03457624639135537
+total_profit:  0.0702133975094183
+dealer:  [10] 	hands:  [3, 8] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  0.031984722958098316
+total_profit:  0.07033939050936266
+dealer:  [10] 	hands:  [3, 9] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.4318103212081509
+total_profit:  0.068638419772576
+dealer:  [10] 	hands:  [3, 10] 	ratio:  0.014443593390961813
+opt strategy:  Hit 	profit:  -0.4283374225790022
+total_profit:  0.062451688206712305
+dealer:  [10] 	hands:  [4, 4] 	ratio:  0.001313053944632892
+opt strategy:  Hit 	profit:  -0.2559983128759812
+total_profit:  0.06211554861217113
+dealer:  [10] 	hands:  [4, 5] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.17250254818447402
+total_profit:  0.061436033158112587
+dealer:  [10] 	hands:  [4, 6] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.026781082688044106
+total_profit:  0.06133053813931736
+dealer:  [10] 	hands:  [4, 7] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  0.0342801686901546
+total_profit:  0.06146557327148123
+dealer:  [10] 	hands:  [4, 8] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.4275980747259803
+total_profit:  0.05978119525527209
+dealer:  [10] 	hands:  [4, 9] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.43584343194755903
+total_profit:  0.05806433744258885
+dealer:  [10] 	hands:  [4, 10] 	ratio:  0.014443593390961813
+opt strategy:  Hit 	profit:  -0.48483215866991947
+total_profit:  0.05106161887989825
+dealer:  [10] 	hands:  [5, 5] 	ratio:  0.001313053944632892
+opt strategy:  Hit 	profit:  -0.022849006721456733
+total_profit:  0.051031616901491696
+dealer:  [10] 	hands:  [5, 6] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  0.041539001597706626
+total_profit:  0.051195245751203634
+dealer:  [10] 	hands:  [5, 7] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.425312519252569
+total_profit:  0.04951987090788462
+dealer:  [10] 	hands:  [5, 8] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.4952213818689743
+total_profit:  0.0475691137410958
+dealer:  [10] 	hands:  [5, 9] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.49415225162645693
+total_profit:  0.045622568051353764
+dealer:  [10] 	hands:  [5, 10] 	ratio:  0.014443593390961813
+opt strategy:  Hit 	profit:  -0.5423520923520921
+total_profit:  0.03778905495468277
+dealer:  [10] 	hands:  [6, 6] 	ratio:  0.001313053944632892
+opt strategy:  Split 	profit:  -0.3595984709618712
+total_profit:  0.03731688276390233
+dealer:  [10] 	hands:  [6, 7] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.4989920257570281
+total_profit:  0.035351272420620465
+dealer:  [10] 	hands:  [6, 8] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.5082620059876346
+total_profit:  0.0333491461250132
+dealer:  [10] 	hands:  [6, 9] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.5529651480582457
+total_profit:  0.031170926918306027
+dealer:  [10] 	hands:  [6, 10] 	ratio:  0.014443593390961813
+opt strategy:  Hit 	profit:  -0.5375806383159323
+total_profit:  0.023406330763616996
+dealer:  [10] 	hands:  [7, 7] 	ratio:  0.001313053944632892
+opt strategy:  Split 	profit:  -0.355082469587213
+total_profit:  0.022940088326255516
+dealer:  [10] 	hands:  [7, 8] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.5095455606485018
+total_profit:  0.020932905901116437
+dealer:  [10] 	hands:  [7, 9] 	ratio:  0.003939161833898676
+opt strategy:  Hit 	profit:  -0.54424921483745
+total_profit:  0.018789020165899433
+dealer:  [10] 	hands:  [7, 10] 	ratio:  0.014443593390961813
+opt strategy:  Stand 	profit:  -0.45960869196163323
+total_profit:  0.012150619100253784
+dealer:  [10] 	hands:  [8, 8] 	ratio:  0.001313053944632892
+opt strategy:  Split 	profit:  -0.28484761531521297
+total_profit:  0.01177659881534487
+dealer:  [10] 	hands:  [8, 9] 	ratio:  0.003939161833898676
+opt strategy:  Stand 	profit:  -0.43255665902724727
+total_profit:  0.010072688133106016
+dealer:  [10] 	hands:  [8, 10] 	ratio:  0.014443593390961813
+opt strategy:  Stand 	profit:  -0.2192980222391988
+total_profit:  0.006905236668440927
+dealer:  [10] 	hands:  [9, 9] 	ratio:  0.001313053944632892
+opt strategy:  Stand 	profit:  -0.1919404125286479
+total_profit:  0.006653208552635722
+dealer:  [10] 	hands:  [9, 10] 	ratio:  0.014443593390961813
+opt strategy:  Stand 	profit:  0.02166836431542274
+total_profit:  0.006966177596254914
+dealer:  [10] 	hands:  [10, 10] 	ratio:  0.024072655651603023
+opt strategy:  Stand 	profit:  0.4579195314489426
+total_profit:  0.01798951679296871
